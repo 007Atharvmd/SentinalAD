@@ -20,3 +20,6 @@ Languages: Python (ML/RL agent).
 Security Context: Active Directory, Ransomware Forensics, Red Teaming methodologies.
 
 AI/ML: Supervised Learning (Classification), Reinforcement Learning (Policy Gradient/Q-Learning for response).
+
+## Data Availability
+Due to file size constraints, the FINAL_DATASET_v4_generalized.csv (2.5GB) is hosted on https://drive.google.com/file/d/1oCogs_uDfthmv7f1UWmuH3DnZtd8Q1jw/view?usp=sharing

@@ -1,0 +1,15 @@
+--- Performance Report: DQN_trial_0 ---
+Evaluated on 5000 steps from the test set.
+
+Overall Accuracy (Active/Passive): 0.9860
+
+Classification Report (Active/Passive vs. True Label):
+               precision    recall  f1-score   support
+
+   Benign (0)       1.00      0.99      0.99      4848
+Malicious (1)       0.70      0.95      0.80       152
+
+     accuracy                           0.99      5000
+    macro avg       0.85      0.97      0.90      5000
+ weighted avg       0.99      0.99      0.99      5000
+
